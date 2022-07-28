@@ -4,3 +4,5 @@ Biltegi honetan GrAL-eko txostenerako erabili diren kodeak bildu dira. Guztiak P
 ADDI-ra ere igoko da biltegi osoa. Hala ere, biltegi hau pentsatuta dago github-en irakurtzeko. Beraz, txostenaren aurkibide amaieran, github-erako helbidea aurkitu daiteke.
 
 Jupyter Notebook-en orri ofiziala : [Jupyter Notebook](https://jupyter.org/).
+
+Azkenik, GrAL-eko txostena igo da .pdf formatuan. Honekin batera ere, defentsa egiteko erabilitako aurkezpena ere igo da.
